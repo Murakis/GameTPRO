@@ -19,56 +19,58 @@
     <td> 
         Murakis <br>
         Aslanchik-lev <br>
-        Max
+        Gunther-lev
     </td>
   </tr>
   <tr>
     <td>2. Планировка выполнения задач</td>
-    <td> Планировка графиков выполнения своих частей, разбиение этапов на подзадачи</td>
+    <td> Планировка графиков выполнения своих частей, разбиение этапов на подзадачи </td>
     <td> 
         Murakis <br>
         Aslanchik-lev <br>
-        Max
+        Gunther-lev
     </td>
   </tr>
   <tr>
     <td>3. Главное меню</td>
-    <td> </td>
+    <td> Разработка главного меню, его дизайн </td>
     <td> Aslanchik-lev </td>
   </tr>
   <tr>
     <td>4. Меню настройки игры</td>
-    <td> </td>
-    <td> Max </td>
+    <td> Планируется в настройках игры реализовать изменение разрешения игры, языка, полный/оконный режим </td>
+    <td> Gunther-lev </td>
   </tr>
   <tr>
     <td>5. Механика игры</td>
-    <td> </td>
+    <td> Создание игрового процесса и основных механик игры </td>
     <td> Murakis </td>
   </tr>
   <tr>
     <td>6. Debugging</td>
-    <td> </td>
+    <td> Отладка кода и проверка на возможность его оптимизировать </td>
     <td> 
         Murakis <br>
         Aslanchik-lev <br>
-        Max
+        Gunther-lev
     </td>
   </tr>
   <tr>
     <td>7. Betta testing</td>
-    <td> </td>
+    <td> Выпуск betta версии игры и тестирование её </td>
     <td> 
         Murakis <br>
         Aslanchik-lev <br>
-        Max <br>
+        Gunther-lev <br>
         Another users
     </td>
   </tr>
   <tr>
     <td>8 .Realeas</td>
-    <td> </td>
+    <td> Выпоуск игры </td>
     <td> </td>
   </tr>
 </table>
 </details>
+
+
